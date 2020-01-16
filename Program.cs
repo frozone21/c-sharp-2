@@ -7,6 +7,8 @@ namespace c_sharp_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("ISM 4300!");
         }
     }
 }
